@@ -1,0 +1,347 @@
+/* Sole Serif Caption */
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionLight_W.woff2') format('woff2'), url('SoleCaptionLight_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionLightIt_W.woff2') format('woff2'), url('SoleCaptionLightIt_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionRegular_W.woff2') format('woff2'), url('SoleCaptionRegular_W.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionRegularIt_W.woff2') format('woff2'), url('SoleCaptionRegularIt_W.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionMedium_W.woff2') format('woff2'), url('SoleCaptionMedium_W.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionMediumIt_W.woff2') format('woff2'), url('SoleCaptionMediumIt_W.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionBold_W.woff2') format('woff2'), url('SoleCaptionBold_W.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionBoldIt_W.woff2') format('woff2'), url('SoleCaptionBoldIt_W.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionBlack_W.woff2') format('woff2'), url('SoleCaptionBlack_W.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Caption';
+  src: url('SoleCaptionBlackIt_W.woff2') format('woff2'), url('SoleCaptionBlackIt_W.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sole Serif Text */
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextLight_W.woff2') format('woff2'), url('SoleTextLight_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextLightIt_W.woff2') format('woff2'), url('SoleTextLightIt_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextRegular_W.woff2') format('woff2'), url('SoleTextRegular_W.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextRegularIt_W.woff2') format('woff2'), url('SoleTextRegularIt_W.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextMedium_W.woff2') format('woff2'), url('SoleTextMedium_W.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextMediumIt_W.woff2') format('woff2'), url('SoleTextMediumIt_W.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextBold_W.woff2') format('woff2'), url('SoleTextBold_W.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextBoldIt_W.woff2') format('woff2'), url('SoleTextBoldIt_W.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextBlack_W.woff2') format('woff2'), url('SoleTextBlack_W.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Text';
+  src: url('SoleTextBlackIt_W.woff2') format('woff2'), url('SoleTextBlackIt_W.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sole Serif Subhead */
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadLight_W.woff2') format('woff2'), url('SoleSubheadLight_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadLightIt_W.woff2') format('woff2'), url('SoleSubheadLightIt_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadRegular_W.woff2') format('woff2'), url('SoleSubheadRegular_W.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadRegularIt_W.woff2') format('woff2'), url('SoleSubheadRegularIt_W.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadMedium_W.woff2') format('woff2'), url('SoleSubheadMedium_W.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadMediumIt_W.woff2') format('woff2'), url('SoleSubheadMediumIt_W.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadBold_W.woff2') format('woff2'), url('SoleSubheadBold_W.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadBoldIt_W.woff2') format('woff2'), url('SoleSubheadBoldIt_W.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadExtraBold_W.woff2') format('woff2'), url('SoleSubheadExtraBold_W.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadExtraBoldIt_W.woff2') format('woff2'), url('SoleSubheadExtraBoldIt_W.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadBlack_W.woff2') format('woff2'), url('SoleSubheadBlack_W.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Subhead';
+  src: url('SoleSubheadBlackIt_W.woff2') format('woff2'), url('SoleSubheadBlackIt_W.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sole Serif Display */
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayLight_W.woff2') format('woff2'), url('SoleDisplayLight_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayLightIt_W.woff2') format('woff2'), url('SoleDisplayLightIt_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayRegular_W.woff2') format('woff2'), url('SoleDisplayRegular_W.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayRegularIt_W.woff2') format('woff2'), url('SoleDisplayRegularIt_W.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayMedium_W.woff2') format('woff2'), url('SoleDisplayMedium_W.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayMediumIt_W.woff2') format('woff2'), url('SoleDisplayMediumIt_W.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayBold_W.woff2') format('woff2'), url('SoleDisplayBold_W.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayBoldIt_W.woff2') format('woff2'), url('SoleDisplayBoldIt_W.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayExtraBold_W.woff2') format('woff2'), url('SoleDisplayExtraBold_W.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayExtraBoldIt_W.woff2') format('woff2'), url('SoleDisplayExtraBoldIt_W.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayBlack_W.woff2') format('woff2'), url('SoleDisplayBlack_W.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Display';
+  src: url('SoleDisplayBlackIt_W.woff2') format('woff2'), url('SoleDisplayBlackIt_W.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sole Serif Small (variable font: peso 200-900, esposto qui al peso di default 200 per compatibilita') */
+@font-face {
+  font-family: 'Sole Serif Small';
+  src: url('SoleSmallVF_W.woff2') format('woff2'), url('SoleSmallVF_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Small';
+  src: url('SoleSmallVF-Italic_W.woff2') format('woff2'), url('SoleSmallVF-Italic_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sole Serif Titling (variable font: peso 200-900, esposto qui al peso di default 200 per compatibilita') */
+@font-face {
+  font-family: 'Sole Serif Titling';
+  src: url('SoleTitlingVF_W.woff2') format('woff2'), url('SoleTitlingVF_W.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sole Serif Titling';
+  src: url('SoleTitlingVF-Italic_W.woff2') format('woff2'), url('SoleTitlingVF-Italic_W.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
